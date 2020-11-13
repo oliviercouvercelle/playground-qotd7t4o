@@ -1,6 +1,6 @@
 # Bonjour!
 
-This Python template lets you get started quickly with a simple one-page playground.
+Ce code vous pouvez tester ici votre programme
 
 ```python runnable
 print('Hello World!')
