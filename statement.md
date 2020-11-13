@@ -6,6 +6,6 @@ Ce code vous pouvez tester ici votre programme
 print('Hello World!')
 ```
 
-# Advanced usage
+# Usage Avancé
 
-If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
+Attention aux instructions=
