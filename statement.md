@@ -3,9 +3,9 @@
 Ce code vous pouvez tester ici votre programme
 
 ```python runnable
-print('Hello World!')
+print('Bonjour le monde')
 ```
 
 # Usage Avancé
 
-Attention aux instructions=
+Attention aux instructions!
