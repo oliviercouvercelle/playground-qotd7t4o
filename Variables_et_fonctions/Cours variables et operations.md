@@ -32,7 +32,7 @@ print(a)
 Petite explication des résultats affichés : Au début *a* vaut 3, on lui ajoute 2 et on stocke dans *a* donc maintenant *a* vaut 5, ce qu'on affiche en premier. Ensuite on calcule *a+a* donc 5+5=10 qu'on stocke de nouveau dans *a*, d'où l'affichage du 10 en deuxième.
 
 
-@[Tracer la courbe représentative d'une fonction]({"command": "python3 www/hello.py"})
+@[Essai du iframe]({"stubs": "python3 www/hello.py"})
 # Deuxième partie : Les opérations sur les variables numériques
 
 Dans cette partie, nous allons voir les opérations de base que l'on peut effectuer en python sur des nombres.
