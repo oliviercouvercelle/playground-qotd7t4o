@@ -32,7 +32,7 @@ print(a)
 Petite explication des résultats affichés : Au début *a* vaut 3, on lui ajoute 2 et on stocke dans *a* donc maintenant *a* vaut 5, ce qu'on affiche en premier. Ensuite on calcule *a+a* donc 5+5=10 qu'on stocke de nouveau dans *a*, d'où l'affichage du 10 en deuxième.
 
 
-@[Tracer la courbe représentative d'une fonction]({"stubs": ["Les_listes/Tracer_une_courbe.py"], "command": "python3 Les_listes/Tracer_une_courbe_Test.py"})
+@[Tracer la courbe représentative d'une fonction]({"command": "python3 Les_listes/Tracer_une_courbe_Test.py"})
 # Deuxième partie : Les opérations sur les variables numériques
 
 Dans cette partie, nous allons voir les opérations de base que l'on peut effectuer en python sur des nombres.
