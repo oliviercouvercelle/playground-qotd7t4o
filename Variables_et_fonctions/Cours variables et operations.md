@@ -31,6 +31,7 @@ print(a)
 ```
 Petite explication des résultats affichés : Au début *a* vaut 3, on lui ajoute 2 et on stocke dans *a* donc maintenant *a* vaut 5, ce qu'on affiche en premier. Ensuite on calcule *a+a* donc 5+5=10 qu'on stocke de nouveau dans *a*, d'où l'affichage du 10 en deuxième.
 
+TECHIO> open -s /www hello.html
 
 # Deuxième partie : Les opérations sur les variables numériques
 
